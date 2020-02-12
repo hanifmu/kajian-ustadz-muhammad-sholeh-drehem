@@ -2,6 +2,12 @@
 
 Dokumentasi kajian Ustadz Muhammad Sholeh Drehem di Masjid Namira Lamongan
 
+#### At-Taubah
+
+Kajian dilaksanakan pada tanggal 17 Jumadil Akhir 1441 / 9 Februari 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-muhammad-sholeh-drehem/raw/master/at-taubah.MP3)
+
 #### 5 Nasehat Nabi Muhammad
 
 Kajian dilaksanakan pada tanggal 17 Jumadal Awwal 1441 / 12 Januari 2020.
