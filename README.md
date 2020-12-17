@@ -33,3 +33,9 @@ Kajian dilaksanakan pada tanggal 8 Muharram 1441 / 8 September 2019.
 Kajian dilaksanakan pada tanggal 24 Dzulhijjah 1440 / 25 Agustus 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-muhammad-sholeh-drehem/raw/master/amanah_amar_ma'ruf_nahi_munkar.MP3)
+
+#### Jalan Menuju Surga
+
+Kajian dilaksanakan pada tanggal 20 Rabi'ul Akhir 1442 / 04 Desember 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-muhammad-sholeh-drehem/raw/master/jalan_menuju_surga.mp3)
